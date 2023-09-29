@@ -7,11 +7,7 @@ A user-friendly and secure login and registration system built using HTML5, CSS3
 
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
